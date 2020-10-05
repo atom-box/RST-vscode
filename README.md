@@ -2,10 +2,15 @@
 
 An extension to preview restructured text and provide syntax highlighting
 
-The extension can be activate in two ways
+In Windows VS Code the extension can be activated in two ways
 
 * Toggle Preview - `ctrl+shift+r`
 * Open Preview to the Side - `ctrl+k r`
+
+In Linux VS Code the extension can be activated in two ways
+
+* Toggle Preview - `ctrl+shift+v`
+* Open Preview to the Side - `ctrl+k v`
 
 Note: Files must be encoded in utf-8 to be correctly parsed
 
